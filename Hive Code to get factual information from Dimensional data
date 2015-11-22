@@ -1,0 +1,12 @@
+select (((cast(substr(date_grant,1,4) as int)-cast(substr(date_publ,1,4) as int))*365) 
++ 
+case when cast(substr(date_grant,5,2) as int)>=cast(substr(date_publ,5,2) as int) 
+   then (cast(substr(date_grant,5,2) as int)-cast(substr(date_publ,5,2) as int))*30
+   else (cast(substr(date_publ,5,2) as int)-cast(substr(date_grant,5,2) as int))*30
+   end  
+   + 
+   case when cast(substr(date_grant,7,2) as int)>=cast(substr(date_publ,7,2) as int) 
+   then (cast(substr(date_grant,7,2) as int)-cast(substr(date_publ,7,2) as int))
+   else (cast(substr(date_publ,7,2) as int)-cast(substr(date_grant,7,2) as int))
+   end ) as days ,patent_no  
+from days
