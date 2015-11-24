@@ -1,0 +1,16 @@
+Problem Statement:
+
+An XML file which had informatiion about all the patents of different companies was given. 
+The format of the file was not in proper XML. XML parsing will not work here.
+A customised algorithm for text mining should be written.
+The final data should be in "CSV" format .
+Since the "CSV" data will have only dimensional information ,
+we will have to design algorithm to extract Factual Information from the given Dimensions
+
+Solution:
+
+I used the SerDe Property in HiveQL to create a table that will accept XML files as source.
+Once the data was available in the table, I designed algorithm to perform Text Mining in Hive.
+After the data was pulled into CSV another algorithm was designed to extract factual Information.
+The three files in the repository contains the Algorithm for the above steps.
+
