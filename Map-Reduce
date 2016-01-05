@@ -1,6 +1,6 @@
-Map Reduce code which does the same thing that the Hive code does. But the accuracy of data extracted is more here.
+#####Map Reduce code which does the same thing that the Hive code does. But the accuracy of data extracted is more here.#####
 
-Map Reduce code for Data wrangling:
+######Map Reduce code for Data wrangling######
 
 public static class Map extends Mapper<LongWritable ,  Text ,  Text ,  Text >
          {
