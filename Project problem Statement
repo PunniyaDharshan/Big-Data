@@ -12,5 +12,8 @@ Solution:
 I used the SerDe Property in HiveQL to create a table that will accept XML files as source.
 Once the data was available in the table, I designed algorithm to perform Text Mining in Hive.
 After the data was pulled into CSV another algorithm was designed to extract factual Information.
-The three files in the repository contains the Algorithm for the above steps.
+The same was performed using Python to compare the performance. Hive gave better performance.
+
+
+All the source codes are attached.
 
