@@ -1,0 +1,297 @@
+<us-patent-grant lang="EN" dtd-version="v4.1 2005-08-25" file="USD0531781-20061114.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20061030" date-publ="20061114">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc_number>D0531781</doc_number>
+<kind>S1</kind>
+<date>20061114</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc_number>29200956</doc_number>
+<date>20040308</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>14</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>8</edition>
+<main-classification>0199</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 1199</main-classification>
+</classification-national>
+<invention-title id="d0e53">Packaged teabag</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc_number>634349</doc_number>
+<kind>A</kind>
+<name>Humphrey</name>
+<date>18991000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426 82</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc_number>2149713</doc_number>
+<kind>A</kind>
+<name>Webber</name>
+<date>19390300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426 83</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc_number>D118424</doc_number>
+<kind>S</kind>
+<name>Irmscher</name>
+<date>19400100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1199</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc_number>2954294</doc_number>
+<kind>A</kind>
+<name>Whelan</name>
+<date>19600900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc_number>4055668</doc_number>
+<kind>A</kind>
+<name>Kopp</name>
+<date>19771000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc_number>D298880</doc_number>
+<kind>S</kind>
+<name>Graves et al.</name>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1102</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc_number>4828851</doc_number>
+<kind>A</kind>
+<name>Romagnoli</name>
+<date>19890500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc_number>D317972</doc_number>
+<kind>S</kind>
+<name>Liu et al.</name>
+<date>19910700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1102</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc_number>D338768</doc_number>
+<kind>S</kind>
+<name>Vernon et al.</name>
+<date>19930800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1199</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc_number>5466474</doc_number>
+<kind>A</kind>
+<name>Gaylor</name>
+<date>19951100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426394</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc_number>D392787</doc_number>
+<kind>S</kind>
+<name>Barratt</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1199</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc_number>D475833</doc_number>
+<kind>S</kind>
+<name>Robinson</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1199</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc_number>6733804</doc_number>
+<kind>B1</kind>
+<name>Lohrey et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>426 79</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 1102</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 1199</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426 79</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426 83</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426394</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 99279</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Klinar</last-name>
+<first-name>Miha</first-name>
+<address>
+<city>Lijubljana</city>
+<country>SI</country>
+</address>
+</addressbook>
+<nationality>
+<country>SI</country>
+</nationality>
+<residence>
+<country>SI</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Collen IP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Ranft</last-name>
+<first-name>Donald J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Magna Terra B.V.</orgname>
+<role>03</role>
+<address>
+<city>Groningen</city>
+<country>NL</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Webster</last-name>
+<first-name>Robin</first-name>
+<department>2911</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Patterson</last-name>
+<first-name>Karen E.</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+</us-patent-grant>
